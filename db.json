@@ -1,0 +1,137 @@
+{
+  "orders": [
+    {
+      "id": "2",
+      "customerName": "Jane Smith",
+      "item": "MacBook Pro 16\"",
+      "quantity": 3,
+      "status": "completed"
+    },
+    {
+      "id": "3",
+      "customerName": "Michael Johnson",
+      "item": "Samsung Galaxy S22 Ultra",
+      "quantity": 2,
+      "status": "cancelled"
+    },
+    {
+      "id": "4",
+      "customerName": "Emily Davis",
+      "item": "Sony Playstation 5",
+      "quantity": 1,
+      "status": "pending"
+    },
+    {
+      "id": "5",
+      "customerName": "David Lee",
+      "item": "Microsoft Surface Laptop 4",
+      "quantity": 4,
+      "status": "completed"
+    },
+    {
+      "id": "6",
+      "customerName": "Sarah Kim",
+      "item": "Nintendo Switch OLED",
+      "quantity": 2,
+      "status": "pending"
+    },
+    {
+      "id": "7",
+      "customerName": "Tom Nguyen",
+      "item": "Google Pixel 6 Pro",
+      "quantity": 3,
+      "status": "cancelled"
+    },
+    {
+      "id": "8",
+      "customerName": "Jessica Chen",
+      "item": "Bose Noise Cancelling Headphones 700",
+      "quantity": 1,
+      "status": "completed"
+    },
+    {
+      "id": "9",
+      "customerName": "Robert Gonzalez",
+      "item": "Amazon Echo Dot (4th Gen)",
+      "quantity": 5,
+      "status": "pending"
+    },
+    {
+      "id": "10",
+      "customerName": "Olivia Ramirez",
+      "item": "GoPro HERO10 Black",
+      "quantity": 2,
+      "status": "completed"
+    },
+    {
+      "id": "11",
+      "customerName": "William Hernandez",
+      "item": "DJI Mavic Air 2 Drone",
+      "quantity": 1,
+      "status": "pending"
+    },
+    {
+      "id": "12",
+      "customerName": "Sophia Gutierrez",
+      "item": "Fitbit Versa 3",
+      "quantity": 3,
+      "status": "cancelled"
+    },
+    {
+      "id": "13",
+      "customerName": "Daniel Sanchez",
+      "item": "Canon EOS R6 Mirrorless Camera",
+      "quantity": 2,
+      "status": "completed"
+    },
+    {
+      "id": "14",
+      "customerName": "Isabella Reyes",
+      "item": "Microsoft Xbox Series X",
+      "quantity": 1,
+      "status": "pending"
+    },
+    {
+      "id": "15",
+      "customerName": "Ethan Soto",
+      "item": "Bose QuietComfort Earbuds",
+      "quantity": 4,
+      "status": "completed"
+    },
+    {
+      "id": "16",
+      "customerName": "Mia Mendoza",
+      "item": "DJI Osmo Mobile 3 Gimbal",
+      "quantity": 2,
+      "status": "pending"
+    },
+    {
+      "id": "17",
+      "customerName": "Jacob Diaz",
+      "item": "Beats Solo3 Wireless Headphones",
+      "quantity": 3,
+      "status": "cancelled"
+    },
+    {
+      "id": "18",
+      "customerName": "Avery Morales",
+      "item": "Amazon Kindle Paperwhite",
+      "quantity": 1,
+      "status": "completed"
+    },
+    {
+      "id": "19",
+      "customerName": "Liam Flores",
+      "item": "GoPro MAX 360 Camera",
+      "quantity": 2,
+      "status": "pending"
+    },
+    {
+      "id": "20",
+      "customerName": "Emma Rios",
+      "item": "Bose Soundlink Revolve+ Bluetooth Speaker",
+      "quantity": 3,
+      "status": "completed"
+    }
+  ]
+}
