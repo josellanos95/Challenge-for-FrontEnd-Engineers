@@ -32,7 +32,7 @@ Este proyecto es una aplicación frontend simple para gestionar pedidos. La apli
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/order-management-app.git
+   git clone https://github.com/josellanos95/Challenge-for-FrontEnd-Engineers
    cd order-management-app
 
 2. npm install
